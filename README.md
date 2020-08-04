@@ -1,0 +1,2 @@
+# exercicios
+exercicios para aprendizagem 
